@@ -1,6 +1,6 @@
 ## "Hello 🌎!" ;D
 
-Me chamo Jhennifer, sou estudante no curso técnico de informática pelo Instituto Federal da Paraíba e utilizo o GitHub para armazenar as soluções dos exercícios que resolvo no beecrowd, bem como dos solicitados pelos meus professores.
+Me chamo Jhennifer, sou estudante nos cursos análise e desenvolvimento de sistemas e técnico de informática pelo Instituto Federal da Paraíba, e utilizo o GitHub para armazenar as soluções dos exercícios que resolvo no beecrowd, bem como dos solicitados pelos meus professores.
 
 ### Linguagens 🎒
                                                                                                                                         
