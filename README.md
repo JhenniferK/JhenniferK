@@ -4,6 +4,7 @@ Me chamo Jhennifer, sou estudante no curso de Análise e Desenvolvimento de Sist
 
 ### Linguagens 🎒
                                                                                                                                         
+• Java                                                                                                      
 • JavaScript                                                                                                                                                                   
 • Python                                                                                                                                                                       
 • SQL                                                                                                                                                         
