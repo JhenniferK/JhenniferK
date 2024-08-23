@@ -6,8 +6,7 @@ Me chamo Jhennifer, sou estudante no curso de Análise e Desenvolvimento de Sist
                                                                                                                                         
 • Java                                                                                                      
 • JavaScript                                                                                                                                                                   
-• Python                                                                                                                                                                       
-• SQL                                                                                                                                                         
+• Python                                                                                                                                                                                                                                                                                                                             
 _(loading...)_
 <!--
 **JhenniferK/JhenniferK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
