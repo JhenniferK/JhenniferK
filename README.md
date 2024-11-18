@@ -1,6 +1,6 @@
 ## "Hello 🌎!" ;D
 
-Me chamo Jhennifer, sou estudante no curso de Análise e Desenvolvimento de Sistemas pelo Instituto Federal da Paraíba, e utilizo o GitHub para armazenar as soluções dos exercícios que resolvo no beecrowd, bem como dos solicitados pelos meus professores.
+Meu nome é Jhennifer e sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB). Utilizo este espaço para compartilhar as soluções que desenvolvo para desafios do beecrowd e exercícios propostos pelos meus professores. Aqui você encontrará exemplos práticos do meu aprendizado e crescimento na área de programação e desenvolvimento de sistemas.
 <!--
 **JhenniferK/JhenniferK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
