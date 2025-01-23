@@ -1,6 +1,6 @@
 ## Hello, 🌎! ;D
 
-Meu nome é Jhennifer e sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB). Utilizo este espaço para compartilhar as soluções que desenvolvo para desafios do beecrowd e exercícios propostos pelos meus professores. Aqui você encontrará exemplos práticos do meu aprendizado e crescimento na área de programação e desenvolvimento de sistemas.
+Meu nome é Jhennifer e sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB). Utilizo este espaço para compartilhar as soluções que desenvolvo para desafios do beecrowd, exercícios propostos pelos meus professores e exemplos práticos do meu aprendizado e crescimento na área de programação. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
