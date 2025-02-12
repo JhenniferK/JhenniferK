@@ -2,6 +2,10 @@
 
 Meu nome é Jhennifer e sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB). Utilizo este espaço para compartilhar as soluções que desenvolvo para desafios do beecrowd, exercícios propostos pelos meus professores e exemplos práticos do meu aprendizado e crescimento na área de programação. =]
 
+---
+
+My name is Jhennifer and I am a Systems Analysis and Development student at the Federal Institute of Paraíba (IFPB). I use this space to share the solutions I develop for beecrowd challenges, exercises proposed by my teachers and practical examples of my learning and growth in the programming area. =]
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhenni-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Jhenni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
