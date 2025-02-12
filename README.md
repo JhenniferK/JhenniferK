@@ -1,7 +1,6 @@
 ## Hello, 🌎!
 
 Meu nome é Jhennifer e sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB). Utilizo este espaço para compartilhar as soluções que desenvolvo para desafios do beecrowd, exercícios propostos pelos meus professores e exemplos práticos do meu aprendizado e crescimento na área de programação. =]
-
 ##
 
 My name is Jhennifer and I am a Systems Analysis and Development student at the Federal Institute of Paraíba (IFPB). I use this space to share the solutions I develop for beecrowd challenges, exercises proposed by my teachers and practical examples of my learning and growth in the programming area. =]
