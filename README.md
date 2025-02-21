@@ -11,7 +11,7 @@ I am a Systems Analysis and Development student at the Federal Institute of Para
 ##
 
 <div align="center" style="margin-bottom:100px">
-<img width=45% align="left" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JhenniferK&show_icons=true&theme=radical&layout=compact"/>
+<img width=45% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JhenniferK&show_icons=true&theme=radical&layout=compact"/>
 </div>
 <!--
 **JhenniferK/JhenniferK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
