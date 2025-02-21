@@ -21,8 +21,6 @@ I am a Systems Analysis and Development student at the Federal Institute of Para
  &nbsp;
  &nbsp;
  &nbsp;
- &nbsp;
- &nbsp;
 
 ##
 
