@@ -1,27 +1,36 @@
-<h3 align="center">Hello, 🌎!</h3>
+<div align="center">
+       <h3>Olá, 🌎!</h3>
+       <p>Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), com interesse em desenvolvimento de software e web. Busco constantemente aprimorar minhas habilidades em programação, explorando novas tecnologias e práticas. Utilizo este espaço para compartilhar meu aprendizado por meio de exemplos práticos e experiências no mundo da tecnologia. =]</p>
+</div>
 
-<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB). Utilizo este espaço para compartilhar as soluções que desenvolvo para desafios do beecrowd, exercícios propostos pelos meus professores e exemplos práticos do meu aprendizado e crescimento na área de programação. =]</p>
+## 
+
+<div align="center">
+       <h3>Hello, 🌎!</h3>
+       <p>I am a Systems Analysis and Development student at the Federal Institute of Paraíba (IFPB), with an interest in software and web development. I constantly seek to improve my programming skills, exploring new technologies and practices. I use this space to share my learning through practical examples and experiences in the world of technology. =]</p>
+</div>
 
 ## 
        
- <div align="center">
-  <a href="https://github.com/JhenniferK">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhenniferK&layout=compact&langs_count=16&theme=dracula"/>
+<div align="center"><br>
+       <a href="https://github.com/JhenniferK">
+       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhenniferK&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Jhenni-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Jhenni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jhenni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhenni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jhenni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+       <img align="center" alt="Jhenni-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+       <img align="center" alt="Jhenni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+       <img align="center" alt="Jhenni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+       <img align="center" alt="Jhenni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+       <img align="center" alt="Jhenni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
- 
+  
 <div align="center"> 
-  <a href="https://instagram.com/jhenniferknc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhennifer-kelly-870269258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jhenniferkelly4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+       <h3>Conecte-se comigo! | Connect with me!</h3>
+       <a href="https://instagram.com/jhenniferknc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+       <a href="https://www.linkedin.com/in/jhennifer-kelly-870269258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+       <a href = "mailto:jhenniferkelly4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <picture align="center">
