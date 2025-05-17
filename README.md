@@ -1,13 +1,6 @@
 <div align="center">
-       <h3>Olá, 🌎!</h3>
-       <p>Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), com interesse em desenvolvimento de software e web. Busco constantemente aprimorar minhas habilidades em programação, explorando novas tecnologias e práticas. Utilizo este espaço para compartilhar meu aprendizado por meio de exemplos práticos e experiências no mundo da tecnologia. =]</p>
-</div>
-
-## 
-
-<div align="center">
        <h3>Hello, 🌎!</h3>
-       <p>I am a Systems Analysis and Development student at the Federal Institute of Paraíba (IFPB), with an interest in software and web development. I constantly seek to improve my programming skills, exploring new technologies and practices. I use this space to share my learning through practical examples and experiences in the world of technology. =]</p>
+       <p>Sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), com interesse em desenvolvimento de software e web. Busco constantemente aprimorar minhas habilidades em programação, explorando novas tecnologias e práticas. Utilizo este espaço para compartilhar meu aprendizado por meio de exemplos práticos e experiências no mundo da tecnologia. =]</p>
 </div>
 
 ## 
