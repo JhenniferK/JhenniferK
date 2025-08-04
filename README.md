@@ -15,9 +15,9 @@
        <img align="center" alt="Jhenni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
        <img align="center" alt="Jhenni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
        <img align="center" alt="Jhenni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-       <img align="center" alt="Jhenni-React height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-       <img align="center" alt="Jhenni-Spring height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-       <img align="center" alt="Jhenni-Spring height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+       <img align="center" alt="Jhenni-React height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+       <img align="center" alt="Jhenni-Spring height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+       <img align="center" alt="Jhenni-Spring height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
 </div>
   
   ##
